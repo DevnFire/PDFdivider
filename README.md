@@ -1,2 +1,1 @@
-# PDFdivider
-A generic PDF divider, mostly for pirated manga websites.
+Please go to master branch, becuase I have some problems with these branches.
